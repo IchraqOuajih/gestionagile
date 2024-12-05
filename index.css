@@ -1,17 +1,8 @@
 h1{
-    color: rgb(3, 255, 255);
-    font-size :
+    text-align: center;
+    color: blue;
 }
 span{
-    color: rgb(193, 74, 193);
-    font-style: oblique;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
 }
-
-h2{
-    size: 0mm;
-    color: rgb(39, 64, 205);
-   
-}
-
 
